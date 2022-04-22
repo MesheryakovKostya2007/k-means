@@ -1,0 +1,8 @@
+﻿  main.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+C:\Users\suzer\source\repos\School Project\main.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\suzer\source\repos\School Project\main.cpp(38,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\suzer\source\repos\School Project\main.cpp(149,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\suzer\source\repos\School Project\main.cpp(203,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\suzer\source\repos\School Project\main.cpp(208,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  School Project.vcxproj -> C:\Users\suzer\source\repos\School Project\Debug\School Project.exe
